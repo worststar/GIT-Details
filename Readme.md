@@ -84,6 +84,10 @@ switch to another branch and check it out into your working directory
 
 merge the specified branch’s history into the current one 
 
+**git revert <commit to revert>**
+
+The revert command will create a commit that reverts the changes of the commit being targeted.
+
 **git log** 
 
 show all commits in the current branch’s history
